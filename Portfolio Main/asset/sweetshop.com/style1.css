@@ -1,0 +1,330 @@
+header {
+    width: 100%;
+    height: 50px;
+    float: left;
+    box-sizing: border-box;
+    padding: 6px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#brand {
+    padding: 0;
+    margin: 0;
+    float: left;
+    font-family: sans-serif;
+    margin-left: 15px;
+
+}
+
+#tagline {
+    float: right;
+    padding: 0;
+    margin: 0;
+    margin-top: 10px;
+    font-family: century gothic;
+
+}
+
+nav {
+    width: 100%;
+    height: 80px;
+    background-color: blue;
+    box-sizing: border-box;
+    float: left;
+    padding: 20px;
+
+}
+
+#Search {
+    width: 400px;
+    height: 40px;
+    box-sizing: border-box;
+    float: left;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#Search-btn {
+    width: 100px;
+    height: 40px;
+    float: left;
+    box-sizing: border-box;
+    border: none;
+    margin-left: 3px;
+    font-size: 16px;
+}
+
+#menu_table {
+    width: 500px;
+    height: 40px;
+    float: right;
+    box-sizing: border-box;
+    padding-left: 30px;
+
+
+}
+
+#menu_item {
+    background-color: white;
+    text-align: center;
+    width: 20%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+}
+
+section {
+    width: 100%;
+    height: 1600px;
+    float: left;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
+#Address {
+    float: left;
+}
+
+#Order {
+    float: right;
+}
+
+#popular-sweets {
+    width: 685px;
+    height: 525px;
+    box-sizing: border-box;
+    float: left;
+    background-color: black;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+#popular-sweets-title {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#popular-sweets-image {
+    width: 300;
+    height: 200px;
+    margin: 15px;
+    border: 4px solid white;
+    box-sizing: border-box;
+}
+
+#rate-list {
+    width: 380px;
+    height: 525px;
+    box-sizing: border-box;
+    float: right;
+    margin-top: 20px;
+}
+
+#rate-header {
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: century gothic;
+    font-size: 25px;
+}
+
+#rate-content {
+    background-color: blue;
+}
+
+#s-name {
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+
+#s-price {
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 10px;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+}
+
+#rate {
+    list-style: none;
+}
+
+fieldset {
+    width: 670px;
+    height: 600px;
+    float: left;
+    box-sizing: border-box;
+    margin-top: 40px;
+    border: 1px solid gray;
+    padding: 10px;
+    background-color: lightgrey;
+}
+
+legend {
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#order-online {
+    font-size: 20px;
+}
+
+#order-input {
+    width: 100%;
+    height: 35px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    margin-top: 5px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+}
+
+#order-btn {
+    padding: 10px;
+    font-size: 15px;
+    float: right;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+#abt-us {
+    width: 420px;
+    height: 586px;
+    float: right;
+    border: 1px solid gray;
+    margin-top: 40px;
+    box-sizing: border-box;
+    padding: 20px;
+    background-color: beige;
+}
+
+#abt-title {
+    font-family: century gothic;
+    font-size: 30px;
+}
+
+#abt-text {
+    font-family: sans-serif;
+    line-height: 17px;
+}
+
+#m-sweets {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#more-sweets {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+#sweets {
+    width: 208px;
+    height: 235px;
+    box-sizing: border-box;
+    float: left;
+    border: 1px solid #ccc;
+    margin-right: 19px;
+}
+
+#sweets-end {
+    width: 208px;
+    height: 235px;
+    box-sizing: border-box;
+    float: left;
+    border: 1px solid #ccc;
+}
+
+#sweet-pic {
+    width: 180px;
+    height: 150px;
+    box-sizing: border-box;
+    margin: 15px;
+}
+
+#buybtn {
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    width: 100px;
+}
+
+footer {
+    width: 100%;
+    height: 200px;
+    box-sizing: border-box;
+    float: left;
+    background-color: black;
+}
+
+#contact-us {
+    width: 350px;
+    height: 200px;
+    box-sizing: border-box;
+    float: left;
+    padding: 8px;
+    padding-left: 24px;
+}
+
+#social-links {
+    width: 250px;
+    height: 200px;
+    box-sizing: border-box;
+    float: right;
+}
+
+#contact-title {
+    font-family: sans-serif;
+    color: white;
+}
+
+#contact-details {
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    margin-bottom: 8px;
+}
+
+#social-logo {
+    width: 60px;
+}
+
+#developer {
+    float: left;
+    color: white;
+    font-family: century gothic;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+#sweets{
+    margin-bottom: 30px;
+}
